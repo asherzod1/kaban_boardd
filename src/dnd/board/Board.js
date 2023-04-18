@@ -194,7 +194,7 @@ const Board = ({
                                 style={{width:'100%', borderRadius:'4px', padding:'4px 12px'}}
                                 type='text' />
                               <div style={{marginTop:'8px', display:'flex', justifyContent:'space-between'}}>
-                                <button onClick={(e)=>addColumn(e)} type={'submit'} style={{border:'none', background:'#00A000', color:'#fff', padding:'4px 20px', display:'inline-block', borderRadius:'4px'}}>add</button>
+                                <button onClick={(e)=>addColumn(e)} disabled={addTitle.length < 1} className={addTitle.length < 1 ? "disabled-button":''} type={'submit'} style={{border:'none', background:'#00A000', color:'#fff', padding:'4px 20px', display:'inline-block', borderRadius:'4px'}}>add</button>
                                 <button onClick={()=>cancelAddColumn()} style={{border:'none', background:'red', color:'#fff', padding:'4px 20px', display:'inline-block', borderRadius:'4px'}}>cancel</button>
                               </div>
                             </div>

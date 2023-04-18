@@ -214,7 +214,7 @@ export default function QuoteList(props) {
                   style={{width:'100%', borderRadius:'4px', padding:'4px 12px'}}
                   type='text' />
                 <div style={{marginTop:'8px', display:'flex', justifyContent:'space-between'}}>
-                  <button onClick={(e)=>addCardFunc(e)} type={'submit'} style={{border:'none', background:'#00A000', color:'#fff', padding:'4px 20px', display:'inline-block', borderRadius:'4px'}}>add</button>
+                  <button onClick={(e)=>addCardFunc(e)} type={'submit'} disabled={addTitle.length < 1} className={addTitle.length < 1 ? "disabled-button":''} style={{border:'none', background:'#00A000', color:'#fff', padding:'4px 20px', display:'inline-block', borderRadius:'4px'}}>add</button>
                   <button onClick={()=>cancelAddCard()} style={{border:'none', background:'red', color:'#fff', padding:'4px 20px', display:'inline-block', borderRadius:'4px'}}>cancel</button>
                 </div>
               </div>

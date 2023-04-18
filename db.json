@@ -2,12 +2,12 @@
   "boards1": [
     {
       "id": 1,
-      "name": "todos",
+      "name": "Todo",
       "data": [
         {
           "id": "3071",
-          "title": "ggg",
-          "content": "jjjj",
+          "title": "Integration",
+          "content": "Database Integration",
           "author": {
             "colors": {
               "soft": "#E3FCEF",
@@ -17,12 +17,23 @@
         },
         {
           "id": "3031",
-          "title": "SAd",
-          "content": "wq",
+          "title": "Connect API",
+          "content": "Connect API",
           "author": {
             "colors": {
               "soft": "#00AA00",
               "hard": "red"
+            }
+          }
+        },
+        {
+          "id": "3121",
+          "title": "Fix Design",
+          "content": "Fix Design bugs",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
             }
           }
         }
@@ -30,12 +41,34 @@
     },
     {
       "id": 2,
-      "name": "doing",
+      "name": "Doing",
       "data": [
         {
           "id": "30041",
-          "title": "Vacac",
-          "content": "QQWE",
+          "title": "Dashboard",
+          "content": "Connect Dashboard",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "5171",
+          "title": "Optimize search",
+          "content": "Optimize search API",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "9161",
+          "title": "Models relations",
+          "content": "Database Relations fix",
           "author": {
             "colors": {
               "soft": "#E3FCEF",
@@ -47,12 +80,34 @@
     },
     {
       "id": 3,
-      "name": "done",
+      "name": "Done",
       "data": [
         {
           "id": "245",
-          "title": "Diyor",
-          "content": "Otaqulov",
+          "title": "About page",
+          "content": "Full finish about page",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "6220",
+          "title": "Login page",
+          "content": "Login page",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "8519",
+          "title": "Service page",
+          "content": "Create service page",
           "author": {
             "colors": {
               "soft": "#E3FCEF",
@@ -64,95 +119,12 @@
     },
     {
       "id": "500",
-      "name": "New Column",
+      "name": "PBI",
       "data": [
         {
           "id": "3141",
-          "title": "qwe",
-          "content": "r12",
-          "author": {
-            "colors": {
-              "soft": "#E3FCEF",
-              "hard": "rgba(9, 30, 66, 0.71)"
-            }
-          }
-        },
-        {
-          "id": "10019",
-          "title": "hh",
-          "content": "gg",
-          "author": {
-            "colors": {
-              "soft": "#E3FCEF",
-              "hard": "rgba(9, 30, 66, 0.71)"
-            }
-          }
-        },
-        {
-          "id": "10020",
-          "title": "jj",
-          "content": "ooo",
-          "author": {
-            "colors": {
-              "soft": "#E3FCEF",
-              "hard": "rgba(9, 30, 66, 0.71)"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "514",
-      "name": "ghjgh",
-      "data": [
-        {
-          "id": "3061",
-          "title": "eee",
-          "content": "fff",
-          "author": {
-            "colors": {
-              "soft": "#E3FCEF",
-              "hard": "rgba(9, 30, 66, 0.71)"
-            }
-          }
-        },
-        {
-          "id": "3151",
-          "title": "qwe",
-          "content": "34",
-          "author": {
-            "colors": {
-              "soft": "#E3FCEF",
-              "hard": "rgba(9, 30, 66, 0.71)"
-            }
-          }
-        },
-        {
-          "id": "3121",
-          "title": "fgjhgjh",
-          "content": "hjb",
-          "author": {
-            "colors": {
-              "soft": "#E3FCEF",
-              "hard": "rgba(9, 30, 66, 0.71)"
-            }
-          }
-        },
-        {
-          "id": "100161",
-          "title": "AA",
-          "content": "ZZ",
-          "author": {
-            "colors": {
-              "soft": "#E3FCEF",
-              "hard": "rgba(9, 30, 66, 0.71)"
-            }
-          }
-        },
-        {
-          "id": "100171",
-          "title": "yy",
-          "content": "uu",
+          "title": "Project",
+          "content": "Project, finish",
           "author": {
             "colors": {
               "soft": "#E3FCEF",

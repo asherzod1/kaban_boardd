@@ -2,7 +2,7 @@ import React from "react";
 import { Row, Col, Card, CardBody } from "reactstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Board from "./dnd/board/Board";
-
+import "./styles.css"
 export default function App() {
 
   return (
