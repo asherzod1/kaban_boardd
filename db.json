@@ -83,9 +83,9 @@
       "name": "Done",
       "data": [
         {
-          "id": "245",
-          "title": "About page",
-          "content": "Full finish about page",
+          "id": "6220",
+          "title": "Login page",
+          "content": "Login page",
           "author": {
             "colors": {
               "soft": "#E3FCEF",
@@ -94,9 +94,9 @@
           }
         },
         {
-          "id": "6220",
-          "title": "Login page",
-          "content": "Login page",
+          "id": "245",
+          "title": "About page",
+          "content": "Full finish about page",
           "author": {
             "colors": {
               "soft": "#E3FCEF",
