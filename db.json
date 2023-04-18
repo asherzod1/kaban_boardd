@@ -1,0 +1,167 @@
+{
+  "boards1": [
+    {
+      "id": 1,
+      "name": "todos",
+      "data": [
+        {
+          "id": "3071",
+          "title": "ggg",
+          "content": "jjjj",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "3031",
+          "title": "SAd",
+          "content": "wq",
+          "author": {
+            "colors": {
+              "soft": "#00AA00",
+              "hard": "red"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "doing",
+      "data": [
+        {
+          "id": "30041",
+          "title": "Vacac",
+          "content": "QQWE",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "done",
+      "data": [
+        {
+          "id": "245",
+          "title": "Diyor",
+          "content": "Otaqulov",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "500",
+      "name": "New Column",
+      "data": [
+        {
+          "id": "3141",
+          "title": "qwe",
+          "content": "r12",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "10019",
+          "title": "hh",
+          "content": "gg",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "10020",
+          "title": "jj",
+          "content": "ooo",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "514",
+      "name": "ghjgh",
+      "data": [
+        {
+          "id": "3061",
+          "title": "eee",
+          "content": "fff",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "3151",
+          "title": "qwe",
+          "content": "34",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "3121",
+          "title": "fgjhgjh",
+          "content": "hjb",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "100161",
+          "title": "AA",
+          "content": "ZZ",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        },
+        {
+          "id": "100171",
+          "title": "yy",
+          "content": "uu",
+          "author": {
+            "colors": {
+              "soft": "#E3FCEF",
+              "hard": "rgba(9, 30, 66, 0.71)"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "files": []
+}
